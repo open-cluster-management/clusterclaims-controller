@@ -1,11 +1,11 @@
 **Table of Contents**
 
 - [Contributing guidelines](#contributing-guidelines)
-    - [Terms](#terms)
-    - [Certificate of Origin](#certificate-of-origin)
-    - [Contributing a patch](#contributing-a-patch)
-    - [Issue and pull request management](#issue-and-pull-request-management)
-    - [Pre-check before submitting a PR](#pre-check-before-submitting-a-pr)
+  - [Terms](#terms)
+  - [Certificate of Origin](#certificate-of-origin)
+  - [Contributing a patch](#contributing-a-patch)
+  - [Issue and pull request management](#issue-and-pull-request-management)
+  - [Pre-check before submitting a PR](#pre-check-before-submitting-a-pr)
 
 # Contributing guidelines
 
@@ -36,3 +36,4 @@ Before submitting a PR, please perform the following steps:
   1. make compile
   
 - If successful, create a `merge` request
+
